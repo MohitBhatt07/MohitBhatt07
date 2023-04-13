@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitbhatt07&label=Profile%20views&color=0e75b6&style=flat" alt="mohitbhatt07" /> </p>
 
-- 🌱 I’m currently learning **sklearn and flask modules**
+- 🌱 I’m currently learning **Dart and Flutter framework **
 
 - 💬 Ask me about **C,C++,Object Oriented Programming**
 
